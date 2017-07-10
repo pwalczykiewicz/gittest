@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<?php echo "branch"; ?>
+<?php echo "just another branch"; ?>
 
 </body>
 </html>
